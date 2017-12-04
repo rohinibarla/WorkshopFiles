@@ -1,14 +1,11 @@
 1. The check the current working directory using
 > pwd
 
-2. The change directory to Desktop using
-> cd Desktop
-
-3. Create your directory and change to it
+2. Create your directory and change to it
 > mkdir curious
 > cd curious
 
-4. Initialise the git repository using
+3. Initialise the git repository using
 > git init
 
 4. Configure your name and email using commands
